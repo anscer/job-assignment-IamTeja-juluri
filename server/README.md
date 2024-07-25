@@ -62,3 +62,10 @@ Lets take a look inside the `src` folder
   Eg:  docker run -p 4000:4000 -d --name "node-typescript-app" "node-typescript-image"
   ```
 
+### Testing APIS in Postman
+- Navigate  to this collection using the link below(made public)
+  ```
+  https://www.postman.com/dark-spaceship-730179/workspace/anscerrobotics-assessment/overview
+  ```
+- Test the users apis and states apis
+- Remember to use login api before using state apis
