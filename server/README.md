@@ -26,7 +26,7 @@ Lets take a look inside the `src` folder
   ```
 - Navigate to job-assignment-IamTeja-juluri
   ```
-  cd job-assignment-IamTeja-juluri
+  cd job-assignment-IamTeja-juluri/server
   ```
 - Run npm clean install or npm install
   ```
